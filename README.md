@@ -62,6 +62,11 @@ Designed to be a one player game against the AI dealer, where the player attempt
 * On hold/stand
   * if dealerSum < playerSum, dealer draws cards until conditional is false
   * Determine winner
+  
+* On winner found
+ * Hide stand/hit buttons
+ * Declare winner
+ * Deal button reappears as a way to repeat game
 
 ## Roadblocks
 
