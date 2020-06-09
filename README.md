@@ -64,9 +64,9 @@ Designed to be a one player game against the AI dealer, where the player attempt
   * Determine winner
   
 * On winner found
- * Hide stand/hit buttons
- * Declare winner
- * Deal button reappears as a way to repeat game
+  * Hide stand/hit buttons
+  * Declare winner
+  * Deal button reappears as a way to repeat game
 
 ## Roadblocks
 
