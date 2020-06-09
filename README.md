@@ -26,7 +26,7 @@ Designed to be a one player game against the AI dealer, where the player attempt
   * Disable hit/hold buttons when not user turn
  
 * Shuffle Deck (JS)
-  *Push into temp array, push back into original array
+  * Push into temp array, push back into original array
 
 * Deal Hand (JS)
   * Pop from deck of card array to user
