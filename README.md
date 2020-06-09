@@ -8,3 +8,4 @@
 Designed to be a one player game against the AI dealer, the player attempts to beat the dealer by getting a count as close to 21 as possible, without going over 21.
 
 ## Wireframe
+![Wireframe](https://github.com/Eryoung-610/Blackjack/blob/master/BlackjackWireframe.JPG)
