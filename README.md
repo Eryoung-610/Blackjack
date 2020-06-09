@@ -5,7 +5,7 @@
 • Clone or download
 
 ## About the game
-Designed to be a one player game against the AI dealer, where the player attempts to beat the dealer by getting a count as close to 21 as possible, without going over 21.
+Designed to be a one player game against the AI dealer, where the player attempts to beat the dealer by getting a count as close to 21 as possible, without going over 21. Utilize the hit/stand functions to make your decisions. 
 
 ## Wireframe
 ![Wireframe](https://github.com/Eryoung-610/Blackjack/blob/master/BlackjackWireframe.JPG)
